@@ -8,6 +8,12 @@ This repository contains the source code for most apps on the [marketplace](http
 
 Head over to the [marketplace](https://www.contentful.com/marketplace/) and follow the installation flow to set up any of the apps in your Contentful space.
 
+## Customize an app
+
+cd apps/app-name
+`npm install`
+`npm run-script build`
+
 ## Building your own app
 
 The best way to get started on app development is with our [tutorial](https://www.contentful.com/developers/docs/extensibility/apps/building-apps/). After the tutorial, this repository contains great examples of different use cases that can be implemented with apps. You can follow their structure to develop similar integration patterns. If you want to start from scratch, check out our [`hello-world-react` example](examples/hello-world-react).
