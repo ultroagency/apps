@@ -8,7 +8,7 @@ This repository contains the source code for most apps on the [marketplace](http
 
 Head over to the [marketplace](https://www.contentful.com/marketplace/) and follow the installation flow to set up any of the apps in your Contentful space.
 
-## Customize an app
+## Customizing an app
 
 ```
 cd apps/app-name
