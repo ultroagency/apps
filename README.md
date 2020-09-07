@@ -10,8 +10,8 @@ Head over to the [marketplace](https://www.contentful.com/marketplace/) and foll
 
 ## Customize an app
 
-cd apps/app-name
 ```
+cd apps/app-name
 npm install
 npm run-script build
 ```
